@@ -5,7 +5,7 @@
   "dependencies": {
     "@ant-design/icons": "^4.2.1",
     "antd": "^4.4.2",
-    "lodash": "^4.17.19",
+    "lodash": "^4.17.23",
     "nba": "^4.13.0",
     "react": "^16.8.0",
     "react-dom": "^16.8.0"
